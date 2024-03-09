@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/modymesourceze/SESSION",
+  "repository": "https://github.com/a7m3dhany/session",
   "env": {
     "ENVIRONMENT": {
       "description": "لا تغيير هذة القيمة",
